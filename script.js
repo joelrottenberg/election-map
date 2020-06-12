@@ -1,4 +1,4 @@
-createPolitician = function(name, partyColor) 
+var createPolitician = function(name, partyColor) 
 {
   var politician = {};
   politician.name = name; 
